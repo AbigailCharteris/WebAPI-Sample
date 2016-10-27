@@ -7,6 +7,16 @@ namespace ProductsApp.Tasks
 {
     public class TaskParallelSamples
     {
+        public void DoSomethingWithTasks()
+        {
+                var task.Factory.StartNew(
+                    () =>
+                    {
+                        // Call some service async
 
+
+
+                    })
+        }
     }
 }
