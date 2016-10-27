@@ -1,0 +1,1 @@
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp.Tests\obj\Debug\ProductsApp.Tests.csprojResolveAssemblyReference.cache

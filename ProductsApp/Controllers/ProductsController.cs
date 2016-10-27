@@ -32,6 +32,5 @@ namespace ProductsApp.Controllers
             return Ok(product);
         }
 
-        //Response.AppendHeader("Access-Control-Allow-Origin", "*");
     }
 }
