@@ -26,3 +26,13 @@ c:\users\hades\documents\visual studio 2015\Projects\ProductsApp\ProductsApp\bin
 c:\users\hades\documents\visual studio 2015\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
 c:\users\hades\documents\visual studio 2015\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
 c:\users\hades\documents\visual studio 2015\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.Unity.dll
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Unity.WebApi.dll
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.Unity.xml
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Hades\Documents\Visual Studio 2015\Projects\ProductsApp\ProductsApp\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
